@@ -74,6 +74,14 @@ body{
 
 }
 
+.note-now{
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.3);
+    
+
+}
+
 .note:hover{
     box-shadow: 0 2px 10px rgb(69, 69, 69);
 }
